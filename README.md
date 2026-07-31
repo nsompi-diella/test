@@ -1,17 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+|+Backend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Lovinci</h1>
 
-<h3 align="center">
-Software Engineering Student 
-</h3>
-
 <p align="center">
-• Backend Developer <br> 
-• Mobile Developer <br>
-• Open Source
+ Backend Developer |
+ Mobile Developer  |
+ Open Source
 </p>
 
 <p align="center">
