@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Lovinci</h1>
+<p align="center">Software engineering student</p>
 
 <p align="center">
  Backend Developer |
@@ -10,8 +11,9 @@
  Open Source
 </p>
 
+
 <p align="center">
-Building reliable software that solves real-world problems.
+[  Building reliable software that solves real-world problems. ]
 </p>
 
 <p align="center">
@@ -22,12 +24,15 @@ Building reliable software that solves real-world problems.
 
 ### 🚀 About Me
 
-- 🎓 University student, Software Engineering track
-- 🛠️ Building backend systems with **Python & FastAPI**
-- 📱 Building mobile apps with **Flutter**
-- 🌍 Focused on solving real-world problems for African markets
-- 📫 Open to collaboration and internship opportunities
+## 🚀 About Me
 
+I'm a Software Engineering student passionate about building reliable software that solves real-world problems.
+
+My current focus is Backend Engineering with Python, FastAPI, PostgreSQL, and Docker while developing cross-platform mobile applications with Flutter. Through every project, I strive to write clean, maintainable code and continuously improve my understanding of software architecture, system design, and modern development practices.
+
+I enjoy turning ideas into practical applications, learning new technologies, and challenging myself with projects that strengthen my engineering skills. I'm particularly interested in backend development, APIs, distributed systems, and building scalable software.
+
+My long-term goal is to become a backend engineer who designs high-quality software systems and contributes to products that create meaningful impact around the world.
 ---
 
 ### 🛠 Tech Stack
