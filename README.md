@@ -27,24 +27,15 @@ Backend Engineering • Mobile Development • Open Source
 
 # 🚀 About Me
 
-I'm a Software Engineering student passionate about building reliable software that solves real-world problems.
+# 🚀 About Me
 
-My current focus is **Backend Engineering** with **Python, FastAPI, PostgreSQL, and Docker**, while also developing cross-platform mobile applications using **Flutter**.
+I'm a Software Engineering student passionate about building reliable software and solving real-world problems.
 
-Through every project, I focus on writing clean, maintainable code and improving my understanding of:
+Currently focused on Backend Engineering and Mobile Development.
 
-- Software Architecture
-- Backend Development
-- Database Design
-- API Development
-- System Design
-- Security Principles
+I enjoy designing applications, improving my software engineering skills, and learning how to build scalable and maintainable systems.
 
-
-I enjoy turning ideas into practical applications, learning new technologies, and building projects that improve my engineering skills.
-
-My long-term goal is to become a backend engineer who designs high-quality software systems and contributes to technology solutions that create meaningful impact, especially across African markets.
-
+My goal is to become a backend engineer who creates impactful technology solutions.
 
 ---
 
@@ -104,119 +95,38 @@ My long-term goal is to become a backend engineer who designs high-quality softw
 🔹 Open Source
 
 
+# 🗺️ Learning Roadmap
+<table> <tr> <td width="160">🐍 <b>Python</b></td> <td><img src="./assets/files/bar-python.svg" /></td> </tr> <tr> <td width="160">⚡ <b>FastAPI</b></td> <td><img src="./assets/bar-fastapi.svg" /></td> </tr> <tr> <td width="160">🐘 <b>PostgreSQL</b></td> <td><img src="./assets/bar-postgresql.svg" /></td> </tr> <tr> <td width="160">📱 <b>Flutter</b></td> <td><img src="./assets/bar-flutter.svg" /></td> </tr> <tr> <td width="160">🐳 <b>Docker</b></td> <td><img src="./assets/bar-docker.svg" /></td> </tr> <tr> <td width="160">🏗️ <b>System Design</b></td> <td><img src="./assets/bar-systemdesign.svg" /></td> </tr> <tr> <td width="160">🔧 <b>Git / GitHub</b></td> <td><img src="./assets/bar-git.svg" /></td> </tr> </table>
 ---
 
-# 📚 Currently Learning
-🐍 **Python**
-- Improving programming fundamentals
-- Writing cleaner and more maintainable code
-- Learning best practices
-
-📱 **Flutter & Dart**
-- Building responsive user interfaces
-- Learning app architecture
-- Connecting mobile applications with REST APIs
-- Managing application state
-
-🗄 **PostgreSQL**
-- Database design fundamentals
-- Writing SQL queries
-- Data modeling and relationships
-
-⚡ **PHP**
-- Building REST APIs
-- Understanding backend architecture
-- Connecting APIs with databases
-
-🔧 **Git & Software Practices**
-- Git workflow
-- Version control best practices
-- Software development workflow
-
----
-🗺️ Learning Roadmap
-<table> <tr> <td width="160">🐍 <b>Python</b></td> <td><img src="./assets/bar-python.svg" /></td> </tr> <tr> <td width="160">⚡ <b>FastAPI</b></td> <td><img src="./assets/bar-fastapi.svg" /></td> </tr> <tr> <td width="160">🐘 <b>PostgreSQL</b></td> <td><img src="./assets/bar-postgresql.svg" /></td> </tr> <tr> <td width="160">📱 <b>Flutter</b></td> <td><img src="./assets/bar-flutter.svg" /></td> </tr> <tr> <td width="160">🐳 <b>Docker</b></td> <td><img src="./assets/bar-docker.svg" /></td> </tr> <tr> <td width="160">🏗️ <b>System Design</b></td> <td><img src="./assets/bar-systemdesign.svg" /></td> </tr> <tr> <td width="160">🔧 <b>Git / GitHub</b></td> <td><img src="./assets/bar-git.svg" /></td> </tr> </table>
----
-
-# ⭐ Featured Projects
-
+### ⭐ Featured Projects
 
 <table>
-
-<tr>
-
-<td width="50%">
-
-<h3>📱 Personal Finance App</h3>
-
-<p>
-Flutter application for managing personal finances.
-</p>
-
-<p>
-Stack:
-Flutter • Dart • Local Storage • API
-</p>
-
-</td>
-
-
-<td width="50%">
-
-<h3>⚡ FastAPI Projects</h3>
-
-<p>
-Backend APIs focused on learning professional backend practices.
-</p>
-
-<p>
-Stack:
-Python • FastAPI • PostgreSQL
-</p>
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td width="50%">
-
-<h3>🗄 SQL Database Projects</h3>
-
-<p>
-Database design and SQL practice projects.
-</p>
-
-<p>
-Stack:
-PostgreSQL • MySQL
-</p>
-
-</td>
-
-
-<td width="50%">
-
-<h3>🌱 Learning Projects</h3>
-
-<p>
-Small projects built to improve software engineering skills.
-</p>
-
-<p>
-Stack:
-Multiple Technologies
-</p>
-
-</td>
-
-</tr>
-
+  <tr>
+    <td width="50%">
+      <h4>📌 Simple church event </h4>
+      <p>Short description of what it does and the stack used.</p>
+      <a href="#">🔗 Repository</a>
+    </td>
+    <td width="50%">
+      <h4>📌 Expense Tracking </h4>
+      <p>Short description of what it does and the stack used.</p>
+      <a href="#">🔗 Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>📌 Pu libriary</h4>
+      <p>Short description of what it does and the stack used.</p>
+      <a href="#">🔗 Repository</a>
+    </td>
+    <td width="50%">
+      <h4>📌 Project 4</h4>
+      <p>Short description of what it does and the stack used.</p>
+      <a href="#">🔗 Repository</a>
+    </td>
+  </tr>
 </table>
-
-
 ---
 
 # 📊 GitHub Statistics
@@ -245,40 +155,26 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsompi-diell
 
 </div>
 
-
-<br>
-
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nsompi-diella&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-
 ---
 
 # 🎯 Current Objectives
 
-
-- [ ] Build production-ready projects
-- [ ] Master Backend Engineering
-- [ ] Improve System Design skills
-- [ ] Learn Docker and deployment
-- [ ] Build APIs used by real applications
-- [ ] Contribute to Open Source
-- [ ] Become a professional software engineer
+[ ] Improve backend engineering skills
+- [ ] Build scalable APIs
+- [ ] Create production-ready applications
+- [ ] Improve software architecture knowledge
 
 
----
+# 🏗️ Engineering Principles
 
-# 🌍 My Mission
+I care about:
 
-
-> Build technology solutions that solve real-world problems and contribute to Africa's digital future.
-
-
----
+- Clean and maintainable code
+- Good software architecture
+- Problem solving
+- Continuous learning
+- Building useful products
+<br>
 
 # 🤝 Let's Connect
 
