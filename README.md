@@ -41,7 +41,7 @@ My long-term goal is to become a backend engineer who designs high-quality softw
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python,php"/>
 </p>
 
 ---
