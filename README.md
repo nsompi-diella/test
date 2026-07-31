@@ -27,8 +27,6 @@ Backend Engineering • Mobile Development • Open Source
 
 # 🚀 About Me
 
-# 🚀 About Me
-
 I'm a Software Engineering student passionate about building reliable software and solving real-world problems.
 
 Currently focused on Backend Engineering and Mobile Development.
@@ -41,43 +39,7 @@ My goal is to become a backend engineer who creates impactful technology solutio
 
 # 🛠 Tech Stack
 
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,fastapi"/>
-
-</p>
-
-
-## Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-
-</p>
-
-
-## Mobile Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart"/>
-
-</p>
-
-
-## DevOps & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode"/>
-
-</p>
-
-
+<table> <tr> <td valign="top"> <h3>Backend</h3> <img src="https://skillicons.dev/icons?i=python,fastapi"/> </td> <td valign="top"> <h3>Databases</h3> <img src="https://skillicons.dev/icons?i=postgres,mysql"/> </td> </tr> <tr> <td valign="top"> <h3>Mobile Development</h3> <img src="https://skillicons.dev/icons?i=flutter,dart"/> </td> <td valign="top"> <h3>DevOps & Tools</h3> <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode"/> </td> </tr> </table>
 ---
 
 # 🚀 Current Focus
@@ -130,21 +92,6 @@ My goal is to become a backend engineer who creates impactful technology solutio
 ---
 
 # 📊 GitHub Statistics
-
-
-<div align="center">
-
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=nsompi-diella&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsompi-diella&layout=compact&theme=tokyonight&hide_border=true"/>
-
-
-</div>
-
 
 <br>
 
