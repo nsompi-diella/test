@@ -41,8 +41,14 @@ My long-term goal is to become a backend engineer who designs high-quality softw
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,mysql,postgres"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 </p>
+
+---
+
+## Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 
 ---
 
@@ -57,7 +63,7 @@ My long-term goal is to become a backend engineer who designs high-quality softw
 ## Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
